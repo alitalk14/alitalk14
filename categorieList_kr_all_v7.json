@@ -446,7 +446,64 @@
       "category_name": "바닥재/액세서리",
       "category_id": 100006266
     },
-
+    {
+      "category_name": "홈/정원",
+      "category_id": 15
+    },
+    {
+      "parent_category_id": 15,
+      "category_name": "정원 용품",
+      "category_id": 125
+    },
+    {
+      "parent_category_id": 15,
+      "category_name": "홈 텍스타일",
+      "category_id": 405
+    },
+    {
+      "parent_category_id": 15,
+      "category_name": "홈 수납/정리",
+      "category_id": 1541
+    },
+    {
+      "parent_category_id": 15,
+      "category_name": "홈 데코",
+      "category_id": 3710
+    },
+    {
+      "parent_category_id": 15,
+      "category_name": "가정용 생활용품",
+      "category_id": 200033149
+    },
+    {
+      "parent_category_id": 15,
+      "category_name": "주방/다이닝/바",
+      "category_id": 200000920
+    },
+    {
+      "parent_category_id": 15,
+      "category_name": "수집품",
+      "category_id": 200003998
+    },
+    {
+      "parent_category_id": 15,
+      "category_name": "아트/공예/바느질",
+      "category_id": 200003937
+    },
+    {
+      "parent_category_id": 15,
+      "category_name": "축제/파티 용품",
+      "category_id": 100001824
+    },
+    {
+      "parent_category_id": 15,
+      "category_name": "반려동물 제품",
+      "category_id": 100006664
+    },
+    {
+      "category_name": "스포츠/엔터테인먼트",
+      "category_id": 18
+    },
     {
       "parent_category_id": 18,
       "category_name": "팀 스포츠",
@@ -2799,64 +2856,6 @@
       "parent_category_id": 201355758,
       "category_name": "장식/세정",
       "category_id": 201357051
-    },
-    {
-      "category_name": "홈/정원",
-      "category_id": 15
-    },
-    {
-      "parent_category_id": 15,
-      "category_name": "정원 용품",
-      "category_id": 125
-    },
-    {
-      "parent_category_id": 15,
-      "category_name": "홈 텍스타일",
-      "category_id": 405
-    },
-    {
-      "parent_category_id": 15,
-      "category_name": "홈 수납/정리",
-      "category_id": 1541
-    },
-    {
-      "parent_category_id": 15,
-      "category_name": "홈 데코",
-      "category_id": 3710
-    },
-    {
-      "parent_category_id": 15,
-      "category_name": "가정용 생활용품",
-      "category_id": 200033149
-    },
-    {
-      "parent_category_id": 15,
-      "category_name": "주방/다이닝/바",
-      "category_id": 200000920
-    },
-    {
-      "parent_category_id": 15,
-      "category_name": "수집품",
-      "category_id": 200003998
-    },
-    {
-      "parent_category_id": 15,
-      "category_name": "아트/공예/바느질",
-      "category_id": 200003937
-    },
-    {
-      "parent_category_id": 15,
-      "category_name": "축제/파티 용품",
-      "category_id": 100001824
-    },
-    {
-      "parent_category_id": 15,
-      "category_name": "반려동물 제품",
-      "category_id": 100006664
-    },
-    {
-      "category_name": "스포츠/엔터테인먼트",
-      "category_id": 18
     }
   ]
 }
